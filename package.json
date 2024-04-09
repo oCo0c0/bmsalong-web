@@ -1,8 +1,8 @@
 {
-  "name": "eladmin-web",
+  "name": "bmsalong-web",
   "version": "1.1.0",
-  "description": "ELADMIN 前端源码",
-  "author": "Zheng Jie",
+  "description": "BMSALONG 前端源码",
+  "author": "Along",
   "license": "Apache-2.0",
   "scripts": {
     "dev": "vue-cli-service serve",
@@ -27,10 +27,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/elunez/eladmin-web.git"
+    "url": "https://github.com/oCo0c0/bmsalong-web"
   },
   "bugs": {
-    "url": "https://github.com/elunez/eladmin/issues"
+    "url": "https://github.com/oCo0c0/bmsalong-web"
   },
   "dependencies": {
     "@riophae/vue-treeselect": "^0.4.0",
